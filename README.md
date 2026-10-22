@@ -1,6 +1,6 @@
-# Daymark Task Manager
+# task1-management-web-app
 
-A responsive task management website with a React frontend and an Express API. By default, the API stores tasks in a local JSON file, so the app runs without a MongoDB installation. You can optionally configure MongoDB for database-backed storage.
+A responsive Daymark task management website with a React frontend and Express API. By default, the API stores tasks in a local JSON file, so the app runs without a MongoDB installation. You can optionally configure MongoDB for database-backed storage.
 
 ## Requirements
 
